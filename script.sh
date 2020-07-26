@@ -1,4 +1,5 @@
 #!/bin/bash
+#description: script to display system info
 
 lscpu
 nproc
