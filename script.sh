@@ -1,5 +1,4 @@
 #!/bin/bash
-#description: script to display system info
 
 #Author: Ernest
 #Date : July 
