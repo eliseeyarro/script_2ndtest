@@ -1,8 +1,6 @@
 #!/bin/bash
-#description: script to display system info
+#description: script to display system in`fo
 
-#Author: Ernest
-#Date : July 
 
 lscpu
 nproc
